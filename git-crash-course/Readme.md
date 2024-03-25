@@ -7,3 +7,7 @@
 ## Stashing
 
 ## Merging
+
+## Log
+
+## Push
